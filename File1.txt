@@ -6,3 +6,7 @@
 "add line" 
 
 Что-то еще
+
+тестовая строка которая удалиться!!!
+deleted string 
+new branch string
